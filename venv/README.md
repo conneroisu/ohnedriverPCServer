@@ -1,0 +1,1 @@
+This is the environment directory for the ohnedriverPCServer meaning that this directory houses the python interpreter and libaries essential for the operation of the PC Server of the ohnedriver mini bus project.
